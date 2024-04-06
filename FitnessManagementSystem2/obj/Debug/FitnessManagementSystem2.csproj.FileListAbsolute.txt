@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\bin\Debug\FitnessManagementSystem2.exe.config
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\bin\Debug\FitnessManagementSystem2.exe
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\bin\Debug\FitnessManagementSystem2.pdb
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.Form1.resources
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.Home.resources
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.exe
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.pdb
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.UyeEkle.resources
+C:\Users\Lenovo\Desktop\FitnessManagementSystem2\FitnessManagementSystem2\obj\Debug\FitnessManagementSystem2.UyeleriGoruntule.resources
